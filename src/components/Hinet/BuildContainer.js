@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Icon, Row, Col, List, Button, Tooltip, Divider, Badge, Popover, InputNumber} from 'antd';
+import {Icon, Row, Col, List, Button, Tooltip, Divider, Card, Badge, Popover, InputNumber} from 'antd';
 import {DropTarget, DragDropContext} from 'react-dnd';
 import HTML5Backend from 'react-dnd-html5-backend';
 import BuildCards from './BuildCards';
